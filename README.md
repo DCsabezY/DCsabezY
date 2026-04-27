@@ -15,4 +15,4 @@ interested in cybersecurity, cloud infrastructure, and system administration.
 - Network security basics
 
 #### 📫 Reach me at
-- Email: [- Email: [d.csaba2004@gmail.com](mailto:d.csaba2004@gmail.com)]
+- Email: [[d.csaba2004@gmail.com](mailto:d.csaba2004@gmail.com)]
