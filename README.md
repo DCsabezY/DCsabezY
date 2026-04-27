@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Csaba 👋
 
-<!--
-**DCsabezY/DCsabezY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student at the **University of Miskolc**, 
+interested in cybersecurity, cloud infrastructure, and system administration.
 
-Here are some ideas to get you started:
+#### 🔧 Currently working with
+- Linux (Ubuntu, basic admin & networking)
+- Wireshark, packet analysis
+- C#, HTML/CSS/JS
+- Bash scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚 Currently learning
+- AWS / Azure fundamentals
+- TryHackMe SOC Level 1 path
+- Network security basics
+
+#### 📫 Reach me at
+- Email: [- Email: [d.csaba2004@gmail.com](mailto:d.csaba2004@gmail.com)]
