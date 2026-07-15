@@ -18,6 +18,12 @@ interested in cybersecurity, cloud infrastructure, and system administration.
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
+#### 🚀 Projects
+- **[owasp-llm-security-research](https://github.com/DCsabezY/owasp-llm-security-research)** – Research paper and presentation on Prompt Injection and the OWASP Top 10 for LLM (LLM01, LLM02, LLM06), with real-world case studies. Ongoing, planned to continue toward TDK and thesis.
+- **[relational-database-design](https://github.com/DCsabezY/relational-database-design)** – Relational database schema, data, and queries in SQLite, designed and normalized up to 3NF.
+- **[movie-processor-threading](https://github.com/DCsabezY/movie-processor-threading)** – Multithreaded C# console app using the producer-consumer pattern, with custom wrappers around ConcurrentQueue and AutoResetEvent.
+- **[taxi-fleet-management](https://github.com/DCsabezY/taxi-fleet-management)** – Browser-based fleet management app for a taxi company, with REST API communication and full CRUD functionality.
+
 #### 📫 Reach me at
 - LinkedIn: [linkedin.com/in/csabadeak2217](https://www.linkedin.com/in/csabadeak2217)
 - Email: [d.csaba2004@protonmail.com](mailto:d.csaba2004@protonmail.com)
