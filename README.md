@@ -16,8 +16,7 @@ interested in cybersecurity, cloud infrastructure, and system administration.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
+![Cisco NetAcad](https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=flat&logo=cisco&logoColor=white)
 #### 🚀 Projects
 - **[owasp-llm-security-research](https://github.com/DCsabezY/owasp-llm-security-research)** – Research paper and presentation on Prompt Injection and the OWASP Top 10 for LLM (LLM01, LLM02, LLM06), with real-world case studies. Ongoing, planned to continue toward TDK and thesis.
 - **[relational-database-design](https://github.com/DCsabezY/relational-database-design)** – Relational database schema, data, and queries in SQLite, designed and normalized up to 3NF.
